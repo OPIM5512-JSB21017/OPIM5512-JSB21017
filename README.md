@@ -1,12 +1,20 @@
-## Hi there! My name is Joe Berkowitz and I'm taking OPIM 5512 this semester with Dave Wanik.
+##  Hi there!
 
-### Some skills I'm learning this semester are:
-### - Coding within Python
-### - Coding within R
-### - Data Mining
-### - Building useful analytical models
+My name is **Joe Berkowitz**, and I’m currently taking **OPIM 5512 – Data Science Using Python**.
 
-## Thank you for checking out my Github, hopefully you find something useful or interesting within my setup :)!
+---
+
+### Skills I’m learning (and continuing to build) this semester:
+
+- **Data analysis & predictive modeling** in Python  
+- **Machine learning** model development & evaluation  
+- **Optimization & quantitative decision-making**  
+- **GitHub version control** & project documentation  
+- **Agile project management** & business analytics  
+
+---
+
+Thanks for checking out my GitHub!  
 
 <!--
 **OPIM5512-JSB21017/OPIM5512-JSB21017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
